@@ -12,6 +12,11 @@ function App() {
         <main>
           <Dictionary defaultKeyword="hello"/>
         </main>
+        <footer>
+          <p>This project was coded by Charlotte and is
+          <a href='https://github.com/tranquynhanh/dictionary-shecode'> open-sourced on GitHub</a> and hosted on Netlify
+          </p>
+        </footer>
       </div>
     </div>
   );
