@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 body {
   background-color: #f9f8fe;
 }
